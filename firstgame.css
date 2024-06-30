@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+  background-color: #352b2b;
+}
+h1 {
+  font-size: 40px;
+  color: White;
+  margin: 0px;
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.buttons-div > button {
+  background-color: rgba(192, 60, 60, 0.829);
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin: 20px;
+  font-weight: 300;
+  outline: none;
+}
+
+p {
+  color: whitesmoke;
+}
